@@ -18,20 +18,9 @@ CSS3 – Styling and positioning of clock and hands
 
 JavaScript – Time calculation and real-time animation
 
-📂 Project Structure
-bash
-Copy
-Edit
-analog-clock/
-├── index.html        # Clock layout
-├── style.css         # Styling for clock design
-└── script.js         # JavaScript logic for time updates
-🧑‍💻 How to Use
+
 Clone the repository or download the project files:
 
-bash
-Copy
-Edit
 git clone https://github.com/Lil-Jaguar/analog-clock.git
 Open index.html in your browser.
 

@@ -1,2 +1,2 @@
 # Analog-Clock
-This is a html,css,js project coded to practice the css and js .....
+This is a html,css,js project coded just for practice
